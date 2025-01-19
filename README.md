@@ -1,7 +1,7 @@
 # Drone-Gesture-Recognition 🏆🏆🏆
 A robust system for controlling drones using real-time hand gesture recognition. This project leverages computer vision and machine learning techniques to detect and interpret human gestures, enabling intuitive and contactless control of drones.
 
-##Dataset_fn.ipynb🚀
+## Dataset_fn.ipynb🚀
 Creates a dataset for hand gestures corresponding to all the different movements a drone can make therefore
 1.Left
 2.Right
